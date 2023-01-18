@@ -1,0 +1,27 @@
+header nav,
+.cards-sec,
+.happy-clints,
+.asked-questions,
+.footer-end{
+    margin: 0 10%;
+}
+.fa-circle-check{
+    color: blue;
+}
+.btn-purchace{
+    background-color: #F496D1;
+}
+.card-scelected{
+    background-color: rgb(43, 137, 213);
+}
+.Happy-cards{
+    width: 350px;
+}
+.footer-end{
+    height: 250px;
+    color: white;
+}
+.footer-end img{
+    width: 150px;
+    float: right;
+}
